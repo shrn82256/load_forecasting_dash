@@ -8,7 +8,7 @@ import "./Device.css";
 
 // const loading_spinner = <i className="fas fa-circle-notch fa-spin"/>;
 // const base_url = "https://load-forecasting.herokuapp.com/";
-const base_url = "http://127.0.0.1:5000/";
+const base_url = "https://load-forecasting.herokuapp.com/";
 const strokeWidth = 2;
 const blueColor = "#4285F4";
 const greenColor = "#0F9D58";
